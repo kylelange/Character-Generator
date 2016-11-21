@@ -4,6 +4,8 @@
 
 #### By _**Kyle Lange, Caleb Stevenson, Ethan Law and Stephen Newkirk**_
 
+![screenshot](Screen Shot.png)
+
 ## Description
 
 _This webpage generates a usable character sheet for Dungeons and Dragons 5th edition rules from the selections chosen by the user._
